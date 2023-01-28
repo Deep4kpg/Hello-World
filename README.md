@@ -1,2 +1,3 @@
 # Hello-World
-Just a beginning !
+
+* Just a beginning !
